@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>sf_umeng_lib</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -22,13 +22,13 @@
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>custom_view</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>sf_log_lib</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -40,25 +40,25 @@
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>http_client</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>pull_refresh_lib</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>sf_util_lib</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>sf_db_lib</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>

@@ -16,7 +16,7 @@
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>reflection_lib</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
