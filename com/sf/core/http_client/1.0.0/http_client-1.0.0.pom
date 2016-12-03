@@ -8,6 +8,12 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
+      <groupId>com.sf.core</groupId>
+      <artifactId>sf_log_lib</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.google.android</groupId>
       <artifactId>android</artifactId>
       <version>4.1.1.4</version>
@@ -15,19 +21,13 @@
     </dependency>
     <dependency>
       <groupId>com.sf.core</groupId>
-      <artifactId>sf_log_lib</artifactId>
+      <artifactId>sf_db_lib</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>sf_util_lib</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.sf.core</groupId>
-      <artifactId>sf_db_lib</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
