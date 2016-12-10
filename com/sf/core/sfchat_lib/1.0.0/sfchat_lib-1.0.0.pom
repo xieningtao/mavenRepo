@@ -15,13 +15,19 @@
     </dependency>
     <dependency>
       <groupId>com.sf.core</groupId>
-      <artifactId>emoji_lib</artifactId>
+      <artifactId>base_sf_core</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>pl.droidsonroids.gif</groupId>
+      <artifactId>android-gif-drawable</artifactId>
+      <version>1.2.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.sf.core</groupId>
-      <artifactId>base_sf_core</artifactId>
+      <artifactId>emoji_lib</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
