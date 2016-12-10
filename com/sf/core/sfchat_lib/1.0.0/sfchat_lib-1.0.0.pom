@@ -9,6 +9,12 @@
   <dependencies>
     <dependency>
       <groupId>com.sf.core</groupId>
+      <artifactId>emoji_lib</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sf.core</groupId>
       <artifactId>base_sf_core</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
@@ -16,12 +22,6 @@
     <dependency>
       <groupId>com.sf.core</groupId>
       <artifactId>baidu_lib</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.sf.core</groupId>
-      <artifactId>emoji_lib</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
